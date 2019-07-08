@@ -1,4 +1,5 @@
 # hello-word
 
 hello candy 
- googby
+ goodby
+how to say
